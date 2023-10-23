@@ -47,8 +47,3 @@ You can replace the Tokenizer with any other tokenization method or library. Mak
 ### To Use Different Model Architectures
 
 We can replace the Transformer encoder with other model architectures like LSTM, GRU, or custom layers. Make sure to update the model creation and compilation steps.
-
-## Note
-
-This is a basic example.
-
